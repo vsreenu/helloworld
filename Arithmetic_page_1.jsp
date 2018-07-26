@@ -1,0 +1,1 @@
+Above two lines are parallel lines . So, there is no intersection point of above two lines
